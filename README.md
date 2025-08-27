@@ -1,4 +1,4 @@
-# TimeNest 课程表桌面应用
+# TimeNest vtktt 课程表桌面应用
 
 TimeNest 是一个简洁美观的桌面课程表应用，由AI开发。它以悬浮窗的形式显示在桌面上，可以随时查看当前和下一节课的信息。
 
@@ -47,4 +47,4 @@ TimeNest 是一个简洁美观的桌面课程表应用，由AI开发。它以悬
 
 ## 许可证
 
-MIT License
+APACHE License
